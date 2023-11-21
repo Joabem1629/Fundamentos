@@ -154,7 +154,6 @@ string ingresar_contrasena() {
         ch = _getch();
     }
     cout << endl;
-	cout << "Contrasena encriptada: " << encriptar(contrasena) << endl;
     return encriptar(contrasena);
 }
 
