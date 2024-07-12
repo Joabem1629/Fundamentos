@@ -58,5 +58,6 @@ Al finalizar tu sesión, selecciona la opción para salir del sistema y asegúra
 
 - Se recomienda no compartir tu nombre de usuario ni tu contraseña con nadie.
 - Si olvidas tu contraseña, ponte en contacto con el administrador del sistema para restablecerla.
-
+- Aun no está optimizado, proto se mejorará el proyecto
+  
 ¡Esperamos que disfrutes utilizando nuestro Sistema de Gestión de Ventas!
